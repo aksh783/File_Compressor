@@ -1,4 +1,4 @@
-# File_Compressor_tool
+# File_Compressor_Decompressor_tool
 This project implements a file compressor and decompressor using the Huffman coding algorithm in C++. Huffman coding is a popular algorithm used for lossless data compression.
 ## Huffman Coding Algorithm
 Huffman coding is a technique used for lossless data compression, where each character is assigned a variable-length binary code. 
